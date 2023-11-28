@@ -4,7 +4,7 @@ n = int(input())
 counter = 0
 
 my_set1 = set()
-odd_num = set)
+odd_num = set()
 even_num = set ()
 
 for i in range(n):
